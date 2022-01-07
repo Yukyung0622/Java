@@ -22,7 +22,7 @@ public class P45_ScopeEx { //1.클래스 변수
 					
 		}
 		//if문 블럭 밖에서 email 변수를 사용하면 에러 발생
-		email = "hong@test.com";
+		String email = "hong@test.com";
 		
 	}
 
