@@ -16,7 +16,7 @@ package ch05;
  * 
  */
 
-public class Sub_StaticTest {
+public class Sub2_StaticTest {
 	
 	public static void main(String[] args) {
 		
