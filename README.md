@@ -1,5 +1,5 @@
 ## Java
->º Book 실습
+>- Book 실습
 
 ### Ch01. HelloWorld 실습
 >* HelloWorld출력
